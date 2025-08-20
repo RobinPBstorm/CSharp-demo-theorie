@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-strucutre", "Demo-stru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-structure", "Exo-structure\Exo-structure.csproj", "{7C4E712B-DF89-4D8F-844E-061545D4D19F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-structure-slide", "Exo-structure-slide\Exo-structure-slide.csproj", "{99FCA5DB-E153-4DE8-81FA-F828BBC94608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-enum", "Demo-enum\Demo-enum.csproj", "{1A70FDBE-7D96-414B-8999-B623D1134A61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{7C4E712B-DF89-4D8F-844E-061545D4D19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C4E712B-DF89-4D8F-844E-061545D4D19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C4E712B-DF89-4D8F-844E-061545D4D19F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99FCA5DB-E153-4DE8-81FA-F828BBC94608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FCA5DB-E153-4DE8-81FA-F828BBC94608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FCA5DB-E153-4DE8-81FA-F828BBC94608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FCA5DB-E153-4DE8-81FA-F828BBC94608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A70FDBE-7D96-414B-8999-B623D1134A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A70FDBE-7D96-414B-8999-B623D1134A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A70FDBE-7D96-414B-8999-B623D1134A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A70FDBE-7D96-414B-8999-B623D1134A61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
