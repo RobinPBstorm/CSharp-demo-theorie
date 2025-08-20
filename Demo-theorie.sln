@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-collection", "Demo-col
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-collections", "Exo-collections\Exo-collections.csproj", "{A33D0142-3B78-4E32-B6CE-2CFB2B23BFD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-strucutre", "Demo-strucutre\Demo-strucutre.csproj", "{AE32AC65-004D-480E-A94B-7CD6F82403A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-strucutre", "Demo-strucutre\Demo-strucutre.csproj", "{AE32AC65-004D-480E-A94B-7CD6F82403A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-structure", "Exo-structure\Exo-structure.csproj", "{7C4E712B-DF89-4D8F-844E-061545D4D19F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{AE32AC65-004D-480E-A94B-7CD6F82403A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE32AC65-004D-480E-A94B-7CD6F82403A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE32AC65-004D-480E-A94B-7CD6F82403A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C4E712B-DF89-4D8F-844E-061545D4D19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4E712B-DF89-4D8F-844E-061545D4D19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4E712B-DF89-4D8F-844E-061545D4D19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4E712B-DF89-4D8F-844E-061545D4D19F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
